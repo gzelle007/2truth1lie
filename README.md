@@ -1,2 +1,4 @@
 # 2truth1lie
-Class Exercise 1
+
+## Kia Ora All
+
