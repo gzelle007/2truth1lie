@@ -4,3 +4,5 @@
 <-- I have visited over 40 countries -->
 <-- I am under 30 years old -->
 <-- I love snowboarding -->
+<-- Truths: Snowboarding, and traveled counties -->
+<-- Lie: Under 30 -->
