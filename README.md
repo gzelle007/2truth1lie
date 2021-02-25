@@ -1,4 +1,4 @@
 # 2truth1lie
 
-## Kia Ora All
+## Nga mihi nui!
 
