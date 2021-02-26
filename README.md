@@ -2,10 +2,10 @@
 
 ## Nga mihi nui!
 
-##I have visited over 40 countries
-##I am under 30 years old
-##I love snowboarding
+<p>1. I have visited over 40 countries</p>
+<p>2. I am under 30 years old</p>
+<p>3. I love snowboarding</p>
 
-##Which one is a lie?
+<p>Which one is a lie?</p>
 
 <!-- Comments are done like this -->
