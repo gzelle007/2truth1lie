@@ -2,10 +2,11 @@
 
 ## Nga mihi nui!
 
-<p>1. I have visited over 40 countries</p>
-<p>2. I am under 30 years old</p>
-<p>3. I love snowboarding</p>
+1. I can skate
+2. I can surf
+3. I can snowboard
 
 <p>Which one is a lie?</p>
 
 <!-- Comments are done like this -->
+- [ ] Tick boxes are done line this
